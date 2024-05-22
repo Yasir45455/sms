@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1089ab13.css",
+    "main.js": "/static/js/main.41787e02.js",
+    "static/js/453.f7be5b23.chunk.js": "/static/js/453.f7be5b23.chunk.js",
+    "static/media/loginadminbg.png": "/static/media/loginadminbg.be13c57b6814769a6cfd.png",
+    "static/media/dashboardSearchBg.png": "/static/media/dashboardSearchBg.4953d8ae4a4027fba2a7.png",
+    "static/media/english.png": "/static/media/english.ab2283f028c32e723df5.png",
+    "static/media/logo.png": "/static/media/logo.11c8213ddf2a78e239a7.png",
+    "static/media/audience.svg": "/static/media/audience.cf042c05b2cac96acec2d979d257ef8f.svg",
+    "static/media/finance.svg": "/static/media/finance.ff1247d3ff7d91339c5e6510e76d3e70.svg",
+    "static/media/students.svg": "/static/media/students.e052def65791dca65f6e4a749f331206.svg",
+    "static/media/settingimg.svg": "/static/media/settingimg.66235e45cfab6df640c7d699317ee821.svg",
+    "static/media/image.svg": "/static/media/image.36c8f3018e43da4ddbc6e124e98583a4.svg",
+    "static/media/coursesIcon.svg": "/static/media/coursesIcon.ab1c5f7e19258786e39664d4cd996391.svg",
+    "static/media/settings.svg": "/static/media/settings.da08234ab78d35406a9a4a3dd084e8b7.svg",
+    "static/media/logout.svg": "/static/media/logout.b33008046fd934152fa4176fb7311ff7.svg",
+    "index.html": "/index.html",
+    "static/media/googleIcon.svg": "/static/media/googleIcon.56013be2a8db9792532123239747b36d.svg",
+    "static/media/calendar.svg": "/static/media/calendar.83b3df25d89ade24d8ff678e0e0dd9f3.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.249df3d5af1da7b2f98edab6d34e626f.svg",
+    "static/media/bell.svg": "/static/media/bell.3cdd6706d3150fa2f997f943b73be0e1.svg",
+    "static/media/clock.svg": "/static/media/clock.b0933132c7dd9d2ffc3251e8dec54533.svg",
+    "static/media/search.svg": "/static/media/search.4797dc178a7bec22c0a335c0b90c5336.svg",
+    "static/media/fbIcon.svg": "/static/media/fbIcon.34d07e80093cb8845685bcec5bbf6393.svg",
+    "static/media/back.svg": "/static/media/back.5e21a3eab89ba4467f36d2899973eda6.svg",
+    "main.1089ab13.css.map": "/static/css/main.1089ab13.css.map",
+    "main.41787e02.js.map": "/static/js/main.41787e02.js.map",
+    "453.f7be5b23.chunk.js.map": "/static/js/453.f7be5b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1089ab13.css",
+    "static/js/main.41787e02.js"
+  ]
+}

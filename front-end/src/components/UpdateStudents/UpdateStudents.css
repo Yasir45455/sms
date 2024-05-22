@@ -1,0 +1,15 @@
+.students-form .input-placeholder-white ::placeholder {
+    color: white;
+  }
+  
+  .students-form .input-placeholder-white :-ms-input-placeholder {
+    color: white;
+  }
+  
+  .students-form .input-placeholder-white ::-ms-input-placeholder {
+    color: white;
+  }
+  
+  .students-form .input-placeholder-white ::-webkit-input-placeholder {
+    color: white;
+  }

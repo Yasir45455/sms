@@ -1,0 +1,9 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.5" height="14" viewBox="0 0 15.5 14">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff057e"/>
+      <stop offset="1" stop-color="#fc0"/>
+    </linearGradient>
+  </defs>
+  <path id="Vector" d="M12.75,1.235h-.745V.75a.75.75,0,0,0-1.5,0v.485H8.5V.75A.75.75,0,0,0,7,.75v.485H4.995V.75a.75.75,0,0,0-1.5,0v.485H2.75A2.752,2.752,0,0,0,0,3.985V11.25A2.755,2.755,0,0,0,2.75,14h10a2.755,2.755,0,0,0,2.75-2.75V3.985A2.752,2.752,0,0,0,12.75,1.235ZM14,4.81H1.5V3.985a1.25,1.25,0,0,1,1.25-1.25h.745V3.19a.75.75,0,0,0,1.5,0V2.735H7V3.19a.75.75,0,0,0,1.5,0V2.735h2.005V3.19a.75.75,0,0,0,1.5,0V2.735h.745A1.25,1.25,0,0,1,14,3.985Z" fill="url(#linear-gradient)"/>
+</svg>

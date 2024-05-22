@@ -1,0 +1,9 @@
+<svg id="clock" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.5" height="15.5" viewBox="0 0 15.5 15.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff057e"/>
+      <stop offset="1" stop-color="#fc0"/>
+    </linearGradient>
+  </defs>
+  <path id="Vector" d="M7.75,15.5A7.75,7.75,0,1,0,0,7.75,7.757,7.757,0,0,0,7.75,15.5ZM7,3.6a.75.75,0,0,1,1.5,0V7h1.75a.75.75,0,0,1,0,1.5H7.75A.749.749,0,0,1,7,7.75Z" fill="url(#linear-gradient)"/>
+</svg>

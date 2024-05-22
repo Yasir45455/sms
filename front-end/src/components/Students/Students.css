@@ -1,0 +1,42 @@
+/* Custom styles for the table */
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+.custom-table {
+    width: 100%;
+    border-collapse:separate;
+    border-spacing:0 15px;
+  }
+  
+  .custom-table tbody tr {
+    background-color: #2D3747;
+    border-radius: 5px;
+}
+
+.geeks {
+    border-right:hidden;
+}
+ 
+.students-form .input-placeholder-white ::placeholder {
+  color: white;
+}
+
+.students-form .input-placeholder-white :-ms-input-placeholder {
+  color: white;
+}
+
+.students-form .input-placeholder-white ::-ms-input-placeholder {
+  color: white;
+}
+
+.students-form .input-placeholder-white ::-webkit-input-placeholder {
+  color: white;
+}
+
+ 
+  
+  
+  

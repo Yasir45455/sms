@@ -1,0 +1,19 @@
+.students-form input::placeholder {
+    color: white;
+    opacity: 0.6;
+}
+
+.students-form input:-ms-input-placeholder {
+    color: white;
+    opacity: 0.6;
+}
+
+.students-form input::-ms-input-placeholder {
+    color: white;
+    opacity: 0.6;
+}
+
+.students-form input::-webkit-input-placeholder {
+    color: white;
+    opacity: 0.6;
+}

@@ -1,0 +1,49 @@
+.sidebar {
+    height: 100%;
+    width: 100%;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    background-color: #343a40;
+    padding-top: 20px;
+}
+
+.sidebar-header {
+    padding: 20px;
+    text-align: center;
+}
+
+.sidebar-header h3 {
+    color: white;
+}
+
+.list-unstyled {
+    padding-left: 0;
+}
+
+.components li {
+    padding: 10px 0;
+
+}
+
+.components a {
+    color: white;
+    text-decoration: none;
+}
+
+.components a:hover {
+    color: #adb5bd;
+}
+
+.dashboardIcons {
+    width: 20px;
+    height: 20px;
+}
+
+.dashboardbtns {
+    border-radius: 16px;
+}
+.bgActiveNav
+{
+    background-color: #505a6a !important;
+}

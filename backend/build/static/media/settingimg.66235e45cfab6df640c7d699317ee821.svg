@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_5714" data-name="Group 5714" transform="translate(-419 -248)">
+    <circle id="Ellipse_1837" data-name="Ellipse 1837" cx="30" cy="30" r="30" transform="translate(419 248)" fill="#d9d9d9"/>
+    <g id="vuesax_bold_gallery" data-name="vuesax/bold/gallery" transform="translate(437 266)">
+      <rect id="vuesax_bold_gallery-2" data-name="vuesax/bold/gallery" width="24" height="24" fill="none"/>
+      <g id="vuesax_bold_gallery-3" data-name="vuesax/bold/gallery">
+        <g id="gallery">
+          <path id="Vector" d="M.53,1.98.51,2A6.187,6.187,0,0,1,0,0,6.142,6.142,0,0,0,.53,1.98Z" transform="translate(2.05 17.03)" fill="#292d32"/>
+          <path id="Vector-2" data-name="Vector" d="M4.76,2.38A2.38,2.38,0,1,1,2.38,0,2.38,2.38,0,0,1,4.76,2.38Z" transform="translate(6.62 5.62)" fill="#292d32"/>
+          <path id="Vector-3" data-name="Vector" d="M20,5.81v8.38C20,17.83,17.83,20,14.19,20H5.81C3.26,20,1.42,18.93.56,17.03A6.723,6.723,0,0,1,0,14.19V5.81C0,2.17,2.17,0,5.81,0h8.38C17.83,0,20,2.17,20,5.81Zm-1.5,4.8V5.81c0-2.82-1.49-4.31-4.31-4.31H5.81C2.99,1.5,1.5,2.99,1.5,5.81v8.38a5.333,5.333,0,0,0,.35,1.97l3.74-2.51a2.221,2.221,0,0,1,2.64.14l.34.28a2.229,2.229,0,0,0,2.82,0l4.16-3.57a2.229,2.229,0,0,1,2.82,0Z" transform="translate(2 2)" fill="#292d32"/>
+          <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
