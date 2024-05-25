@@ -31,7 +31,7 @@ app.get('*', (req, res) => {
 });
 
 // Start the server
-const fport = process.env.PORT || 5000;
+const fport = process.env.PORT || 3000;
 app.listen(fport, () => {
     console.log(`Server is running on port ${fport}`);
 });
